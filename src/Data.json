@@ -1,0 +1,388 @@
+{
+  "heroData": {
+    "homeThreeHero": {
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "imgLink": "/images/section/hero-img.jpg",
+      "title": "Jacqueline <br /> Li",
+      "subTitle": "Hello, I’m",
+      "designation": "Software Engineer"
+    },
+    "homeTwoHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeOneHero": {
+      "imgAuthor": "/images/section/profile_pic.jpeg",
+      "bgImgLink": "/images/background/hero-bg-1.jpg",
+      "title": "Hi, I am <span>Jacqueline Li</span>",
+      "text": "I am a Software Engineer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeFourHero": {
+      "imgAuthor": "/images/section/hero-img.jpg",
+      "bgImgLink": "/images/background/hero-bg-2.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    }
+  },
+  "aboutData": {
+    "imgLink": "/images/section/profile_pic.jpeg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Jacqueline Li",
+    "subtitle": "Software Engineer",
+    "text": "I am a Software Engineer with a strong background in C++ and Python.",
+    "details": [
+      {
+        "title": "Birthday",
+        "info": "February 11, 1999"
+      },
+      {
+        "title": "Phone",
+        "info": "+1 347-768-9710"
+      },
+      {
+        "title": "Email",
+        "info": "jacqueline.li0211@gmail.com"
+      },
+      {
+        "title": "From",
+        "info": "Long Island, NY"
+      },
+      {
+        "title": "Language",
+        "info": "English, Chinese (Mandarin)"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "./images/icon/icon6.png",
+        "title": "C++/Qt Desktop Application",
+        "text": "I have 2+ years in developing in C++ and Qt in Visual Studio 2019. Capable of developing a simple Qt GUI as frontend.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/icon/icon2.png",
+        "title": "UI/UX Design",
+        "text": "I have 2+ years in designing the UI of the Zeta Surgical Navigation System on Figma.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/icon/icon3.png",
+        "title": "Product Design",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/icon/icon4.png",
+        "title": "App Design",
+        "text": "Have 2 years experience in developing IOS app using Swift/SwiftUI. ",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/icon/icon5.png",
+        "title": "Motion Graphics",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/icon/icon6.png",
+        "title": "Responsive Design",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "Soft Skills and My Confidence with Each.",
+    "text": "I have a total of four years of experience with C++, including two years in a professional setting and two years of personal projects. Additionally, I have five years of experience with Python, which has strengthened my programming skills. I also have 1-2 years of experience in SwiftUI for iOS development, enabling me to create user-friendly applications.",
+    "skills": [
+      {
+        "title": "C++",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Python",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Qt",
+        "progress": "70%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "UX Design",
+        "progress": "75%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "HTML/CSS",
+        "progress": "70%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "SwiftUI/Swift",
+        "progress": "70%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/casterWheelGUI/main.png",
+        "imgLinkLg": "/casterWheelGUI/main.png",
+        "title": "Caster Wheel GUI",
+        "subTitle": "Made with C++/Qt",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/anaglyph_images.jpeg",
+        "imgLinkLg": "./images/anaglyph_images.jpeg",
+        "title": "Anaglyph Generator",
+        "subTitle": "C++",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/website_revamp.png",
+        "imgLinkLg": "./images/portfolio/website_revamp.png",
+        "title": "Website Re-development",
+        "subTitle": "Project Manager",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/LifeTracker.png",
+        "imgLinkLg": "./images/LifeTracker.png",
+        "title": "LifeTracker",
+        "subTitle": "MacOS App",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/zeta_platform2.png",
+        "imgLinkLg": "./images/zeta_platform2.png",
+        "title": "Zeta Surgical Navigation System",
+        "subTitle": "",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/zeta_platform2.png",
+        "designation": "Zeta Surgical",
+        "date": "2022-Present",
+        "title": "Zeta Surgical Navigation System Frontend/Backend",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/anaglyph_images.jpeg",
+        "designation": "Zeta Surgical",
+        "date": "2022",
+        "title": "Anaglyph Generator",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/zeta_website.png",
+        "designation": "Zeta Surgical",
+        "date": "Jan 2024 - April 2024",
+        "title": "Project Manager for Website Reconstruction",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Personal",
+        "date": "07-03-2023",
+        "title": "Robinhood Stock Management Platform",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/LifeTracker.png",
+        "designation": "Personal",
+        "date": "07-03-2023",
+        "title": "Life Tracker - Fitness MacOS App",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Boston University",
+        "date": "07-03-2023",
+        "title": "OCaml Interpreter",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/client/client1.png",
+        "title": "Raahil Sha",
+        "designation": "CTO of Zeta Surgical",
+        "text": "\"With a keen eye for design and an incredible ability to translate her ideas into functioning systems, Jacqueline is one of the most uniquely talented software developers I've had the pleasure of working with. Her ability to apply her expertise to external domains, even those she doesn't have training in, is incredible - during her past 2 years at Zeta Surgical, she's taken on electrical engineering projects, medical device user interface design, and highly technical linear algebra algorithmics research, performing beyond expectations in every project.\""
+      },
+      {
+        "imgLink": "./images/client/client2.png",
+        "title": "Jian",
+        "designation": "Software Engineer",
+        "text": "\"Jackie has an impressive depth in her tech stack, seamlessly working across both frontend UI and backend systems. Her collaborative spirit and proactive communication make her an invaluable team member who always fosters a productive and supportive environment.\""
+      },
+      {
+        "imgLink": "./images/client/client1.png",
+        "title": "Brian Lin",
+        "designation": "Intern",
+        "text": "\"Jackie is a hardworking and very talented individual who is very well versed in C++. Not only does she put her strongest effort into her work but also communicates effectively with anyone she works with. As a mentor and coworker, she has been instrumental in fostering a collaborative work environment and driving projects to successful completion.\""
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Software Engineer",
+        "duration": "Septmeber 2022 - Present",
+        "subTitle": "Zeta Surgical",
+       "text": "Developed algorithms for an FDA-approved surgical navigation device, focusing on both frontend and backend systems. Simulated high-resolution focused ultrasounds on low-power PCs through extensive data analysis and algorithm optimization. Designed surgical navigation software for compatibility with new procedures, including cranial biopsies and EVD. Led the redesign and launch of the company's website, coordinating a team of UX designers and web developers."
+     },
+      {
+        "title": "Student Researcher",
+        "duration": "November 2021 - June 2022",
+        "subTitle": "Boston University",
+        "text": "Enhanced object detection software to assist vision-impaired individuals during ride-sharing. Introduced and executed the extraction of images from a neural network training dataset for autonomous vehicles using the Toronto Annotation Suite, improving project completion speed by 30%. Developed code for object detection and integrated it with OAK-D cameras, while increasing debugging efficiency."      },
+      {
+        "title": "Teaching Assitant",
+        "duration": "June 2020 - May 2021",
+        "subTitle": "Boston University Sargent College",
+        "text": "Guided students through human anatomy case study labs, overseeing 50-60 students per class over three semesters. Conducted weekly office hours sessions to help students further their understanding of challenging anatomy concepts featured in labs, lectures, and homework material. Collaborated with the professor to facilitate interactive exercises during lecture to increase student engagement."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Bachelor of Art in Computer Science",
+        "duration": "2017- 2022",
+        "subTitle": "Boston University",
+        "text": ""
+      },
+      {
+        "title": "Bachelor of Science in Human Physiology",
+        "duration": "2017 - 2022",
+        "subTitle": "Boston University",
+        "text": ""
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visit my social profile and get connected",
+    "text": ""
+  },
+  "socialData": [
+    {
+      "icon": "github",
+      "title": "GitHub",
+      "link": "https://github.com/jli0211"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/jacqueline-l-30b0a7103"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "linkedin",
+      "link": "https://www.linkedin.com/in/jacqueline-l-30b0a7103"
+    },
+    {
+      "icon": "github",
+      "link": "https://github.com/jli0211"
+    }
+  ]
+}
